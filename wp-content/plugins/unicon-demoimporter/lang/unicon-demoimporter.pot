@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#. Text in function
+#: unicon-demoimporter/demoimporter/import.php:44
+msgid "<strong>IMPORTANT: Revolution Slider</strong> plugin is not installed and active. Please activate it if you want Sliders to be imported."
+msgstr ""
+
+#. Text in function
+#: unicon-demoimporter/demoimporter/import.php:42
+msgid "<strong>IMPORTANT: Unicon Core</strong> plugin is not installed and active. Please install and activate it before starting the Demo Import."
+msgstr ""
+
+#. Text in echo
+#: unicon-demoimporter/demoimporter/import.php:26
+msgid "Demo Importer"
+msgstr ""
+
+#. Text in echo
+#: unicon-demoimporter/demoimporter/import.php:52
+msgid "Do not run the Demo Import multiple times, it will result in duplicated content."
+msgstr ""
+
+#. Text in echo
+#: unicon-demoimporter/demoimporter/import.php:38
+msgid "Import Revolution Sliders"
+msgstr ""
+
+#. Text in echo
+#: unicon-demoimporter/demoimporter/import.php:32
+msgid "Import Theme Options"
+msgstr ""
+
+#. Text in echo
+#: unicon-demoimporter/demoimporter/import.php:17
+#: unicon-demoimporter/demoimporter/import.php:18
+msgid "Import completed successfully!"
+msgstr ""
+
+#. Text in echo
+#: unicon-demoimporter/demoimporter/import.php:47
+msgid "Important Notes:"
+msgstr ""
+
+#. Text in echo
+#: unicon-demoimporter/demoimporter/import.php:11
+msgid "Importing Demo Content..."
+msgstr ""
+
+#. Text in echo
+#: unicon-demoimporter/demoimporter/import.php:12
+msgid "Please be patient and <strong>do not navigate away</strong> from this page while the import is in progress. This may take up to several minutes (according to your server speed). You will get a notification on this page when the import is completed."
+msgstr ""
+
+#. Text in function
+#: unicon-demoimporter/demoimporter/import.php:19
+msgid "The Demo Import was successfully. View <a href=\"%s\" target=\"_blank\">your page</a><br>or start to customize it with our Theme Options Panel."
+msgstr ""
+
+#. Text in echo
+#: unicon-demoimporter/demoimporter/import.php:51
+msgid "The Demo Import will not import the images we have used in our live demo, due to copyright / license reasons."
+msgstr ""
+
+#. Text in echo
+#: unicon-demoimporter/demoimporter/import.php:27
+msgid "This is our \"one-click\" Demo Importer. Select from the options below which type of data you want to import. The standard content gets always imported (including pages, images, navigation). <strong>If you want to import the demo content for plugins (WooCommerce, Contactform 7, bbPress, Revolution Slider), make sure to install them before running the Importer!</strong>"
+msgstr ""
+
+#. Text in echo
+#: unicon-demoimporter/demoimporter/import.php:50
+msgid "To reset your installation (if the import fails) we recommend:"
+msgstr ""
+
+#. Text in echo
+#: unicon-demoimporter/demoimporter/import.php:49
+msgid "We recommend to run the Demo Import on a clean WordPress installation."
+msgstr ""
+
+#. Text in echo
+#: unicon-demoimporter/demoimporter/import.php:50
+msgid "Wordpress Reset Plugin"
+msgstr ""

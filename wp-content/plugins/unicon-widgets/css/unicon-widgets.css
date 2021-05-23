@@ -1,0 +1,98 @@
+/*-----------------------------------------------------------------------------------*/
+/* Contact Widget
+/*-----------------------------------------------------------------------------------*/
+.widget_contact address{
+    font-style: normal;
+}
+
+.widget_contact address span{
+    display: block;
+    margin-bottom: 6px;
+}
+
+.widget_contact address strong{
+    display: none;
+}
+
+.widget_contact address span i{
+    display: inline-block;
+    width: 24px;
+    float: left;
+    margin: 5px 0 0px 0;
+}
+
+.widget_contact .adress-overflow{
+    overflow: hidden;
+}
+
+/*-----------------------------------------------------------------------------------*/
+/* Flickr Widget
+/*-----------------------------------------------------------------------------------*/
+.widget_flickr a:hover img{
+    opacity: 0.6;
+}
+
+.widget_flickr img{
+    width: 100%;
+    height: auto;
+    float: left;
+    vertical-align: top;
+}
+
+/*-----------------------------------------------------------------------------------*/
+/* Portfolio Widget
+/*-----------------------------------------------------------------------------------*/
+.widget_portfolio .portfolio-widget-item {
+    float: left;
+    padding: 0;
+    margin: 0 10px 10px 0;
+}
+
+.widget_portfolio .portfolio-widget-item:nth-child(3n) {
+    margin: 0 0 10px 0;
+}
+
+.widget_portfolio .portfolio-widget-item .portfolio-pic {
+    display: block;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    border-radius:2px;
+}
+
+.widget_portfolio .portfolio-widget-item .portfolio-pic img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.widget_portfolio .portfolio-widget-item .portfolio-overlay{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #44bdbd;
+    text-align: center;
+    opacity: 0;
+}
+
+.widget_portfolio .portfolio-widget-item .portfolio-overlay i{
+    font-size: 24px;
+    line-height: 80px;
+    color: #ffffff;
+}
+
+/*-----------------------------------------------------------------------------------*/
+/* Sponsor Widget
+/*-----------------------------------------------------------------------------------*/
+.widget_sponsor .sponsors { margin-right: -20px; }
+
+.widget_sponsor a {
+    display: block;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.widget_sponsor a img { vertical-align: top; }
